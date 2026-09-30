@@ -19,4 +19,26 @@ require 'includes/header.php';
         </div>
     </div>
 </section>
+<section class="section section-soft">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Kurikulum Utama</span>
+            <h2>Materi Utama yang Akan Dikuasai</h2>
+        </div>
+        <div class="grid-3">
+            <article class="card">
+                <h3>Pengembangan Web</h3>
+                <p>Menguasai pembuatan situs interaktif dan manajemen basis data berkinerja tinggi.</p>
+            </article>
+            <article class="card">
+                <h3>Kolaborasi & Versi Kode</h3>
+                <p>Memahami alur kerja tim modern serta pelacakan perubahan proyek secara terstruktur.</p>
+            </article>
+            <article class="card">
+                <h3>Desain Antarmuka</h3>
+                <p>Membuat tampilan aplikasi yang intuitif, fleksibel di berbagai perangkat, dan nyaman dipakai.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
